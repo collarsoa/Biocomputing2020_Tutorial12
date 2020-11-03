@@ -27,4 +27,4 @@ ggplot(data=data_Regions, aes(x=region, y=observations))+
 #This portrayal makes it appear that each region has the same average observation for each variable.
 #The jitter plot helps us to see that the spread of the data are very different for each region.
 #Some regions are highly clustered (like the north), where as others have a more spread out distribution.
-#Furtermore, the south appears to have a biomodal distribution.
+#Furthermore, the south appears to have a biomodal distribution.
